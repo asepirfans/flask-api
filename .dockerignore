@@ -1,0 +1,19 @@
+# Files and directories to ignore when building the Docker image
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
